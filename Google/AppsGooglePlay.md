@@ -32,21 +32,71 @@ Ocena: 4,7
 łącznie oceniło 992494  
 Dane z dnia 20220213_1451  
 Ostatnia aktualizacja 20210703  
+Ilość instalacji: 10.000.000+   
 Aktualna wersja: 49  
 Wielkosc pliku: 5,3MB  
 Wymagania systemowe: Android 4.1   
 
-
-
 https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorderpro
+
+Kategoria: Musik & Audio  
+Ocena: 4,8  
+łącznie oceniło 21016  
+Dane z dnia: 20220213_2132  
+Ostatnia aktualizacja 20210703
+Ilość instalacji: 100.000+  
+Aktualna wersja: 41
+Wielkosc pliku: 6,8MB
+Wymagania systemowe: Android 4.1
 
 https://play.google.com/store/apps/details?id=com.andrwq.recorder
 
+
+Kategoria: Musik & Audio  
+Ocena: 4,5  
+łącznie oceniło 475.459  
+Dane z dnia: 20220213_2132  
+Ostatnia aktualizacja 20210703
+Ilość instalacji: 100.000+  
+Aktualna wersja: 1.11.3  
+Wielkosc pliku: 3,8MB
+Wymagania systemowe: Android 5.0
+
 https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder
+
+Kategoria: Effizienz  
+Ocena: 4,7  
+łącznie oceniło 459.247   
+Dane z dnia: 20220213_2132  
+Ostatnia aktualizacja 20211210
+Ilość instalacji: 50.000.000  
+Aktualna wersja: 1.11.3  
+Wielkosc pliku: 3,8MB
+Wymagania systemowe: Różni się w zależności od urządzenia
 
 https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder
 
+Kategoria: Musik & Audio    
+Ocena: 4,4  
+łącznie oceniło 2.928   
+Dane z dnia: 20220213_2132  
+Ostatnia aktualizacja 20201218
+Ilość instalacji: 500.000  
+Aktualna wersja: 3.4.3  
+Wielkosc pliku: 3,1 MB
+Wymagania systemowe: Android 3.1
+
 https://play.google.com/store/apps/details?id=com.audioRec
+
+Kategoria: Musik & Audio    
+Ocena: 4,4  
+łącznie oceniło 18.963   
+Dane z dnia: 20220213_2132  
+Ostatnia aktualizacja 20210818
+Aktualna wersja: 5.3.9.13  
+Wielkosc pliku: 5,6 MB  
+Ilość instalacji: 1.000.000  
+Wymagania systemowe: Android 4.2
 
 https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder
 
