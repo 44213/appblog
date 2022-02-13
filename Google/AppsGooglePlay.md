@@ -27,6 +27,16 @@ Kontakt mit Entwickler E-Mail
 
 
 https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder
+Kategoria: Musik & Audio
+Ocena: 4,7 
+łącznie oceniło 992494
+Dane z dnia 20220213_1451
+Ostatnia aktualizacja 20210703
+Aktualna wersja: 49
+Wielkosc pliku: 5,3MB
+Wymagania systemowe: Android 4.1
+
+
 
 https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorderpro
 
